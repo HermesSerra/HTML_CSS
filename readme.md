@@ -35,20 +35,8 @@ Este projeto é uma landing page criada para promover os serviços da **Nutricio
 
 ---
 
-## 📸 **Prévia do Projeto**  
-### **Visual do Site:**  
-Abaixo, confira imagens do design da landing page:  
-
-![Saúde Vegana](./assets/saude-vegana.jpeg)  
-*Uma abordagem saudável e sustentável para todos.*  
-
-![Nutricionista Gabriela de Souza](./assets/nutri.jpg)  
-*A Nutricionista Gabriela pronta para te ajudar.*  
-
----
-
 ## 🌐 **Visualizar a Página**  
-👉 [**Clique aqui para acessar o site!**](#)  
+👉 [**https://peaceful-bombolone-18d4bd.netlify.app/**](#)  
 
 ---
 
