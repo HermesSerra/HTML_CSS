@@ -36,7 +36,9 @@ Este projeto é uma landing page criada para promover os serviços da **Nutricio
 ---
 
 ## 🌐 **Visualizar a Página**  
-<a href="https://peaceful-bombolone-18d4bd.netlify.app/" target="_blank">👉 <b>Clique aqui para acessar o site!</b></a>
+## 🌐 **Visualizar a Página**
+👉 [**Clique aqui para acessar o site!**](https://peaceful-bombolone-18d4bd.netlify.app/)  
+*(Dica: Use **Ctrl + Clique** ou **Cmd + Clique** para abrir em uma nova guia)*
 
 
 ---
