@@ -30,6 +30,10 @@ Este projeto é uma landing page criada para promover os serviços da **Nutricio
 ---
 
 ## 💻 **Tecnologias Utilizadas**  
+
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 - **HTML e CSS:** Para uma estrutura moderna e responsiva.  
 - **Flexbox:** Para um layout organizado e adaptável a diferentes dispositivos.  
 
